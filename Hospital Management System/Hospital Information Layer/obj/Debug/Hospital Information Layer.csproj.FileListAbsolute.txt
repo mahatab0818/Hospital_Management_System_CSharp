@@ -1,0 +1,16 @@
+c:\users\user\documents\visual studio 2012\Projects\User Interface Layer\Hospital Information Layer\bin\Debug\Hospital Information Layer.dll
+c:\users\user\documents\visual studio 2012\Projects\User Interface Layer\Hospital Information Layer\bin\Debug\Hospital Information Layer.pdb
+c:\users\user\documents\visual studio 2012\Projects\User Interface Layer\Hospital Information Layer\obj\Debug\Hospital Information Layer.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\User Interface Layer\Hospital Information Layer\obj\Debug\Hospital Information Layer.dll
+c:\users\user\documents\visual studio 2012\Projects\User Interface Layer\Hospital Information Layer\obj\Debug\Hospital Information Layer.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\Hospital Management System\Hospital Information Layer\bin\Debug\Hospital Information Layer.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Hospital Management System\Hospital Information Layer\bin\Debug\Hospital Information Layer.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\Hospital Management System\Hospital Information Layer\obj\Debug\Hospital Information Layer.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Hospital Management System\Hospital Information Layer\obj\Debug\Hospital Information Layer.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\Hospital Management System\Hospital Information Layer\obj\Debug\Hospital Information Layer.csprojResolveAssemblyReference.cache
+E:\HMS\Hospital Management System\Hospital Information Layer\bin\Debug\Hospital Information Layer.dll
+E:\HMS\Hospital Management System\Hospital Information Layer\bin\Debug\Hospital Information Layer.pdb
+E:\HMS\Hospital Management System\Hospital Information Layer\obj\Debug\Hospital Information Layer.csprojAssemblyReference.cache
+E:\HMS\Hospital Management System\Hospital Information Layer\obj\Debug\Hospital Information Layer.csproj.CoreCompileInputs.cache
+E:\HMS\Hospital Management System\Hospital Information Layer\obj\Debug\Hospital Information Layer.dll
+E:\HMS\Hospital Management System\Hospital Information Layer\obj\Debug\Hospital Information Layer.pdb

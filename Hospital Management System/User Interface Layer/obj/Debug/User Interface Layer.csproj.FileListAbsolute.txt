@@ -1,0 +1,91 @@
+c:\users\user\documents\visual studio 2012\Projects\User Interface Layer\User Interface Layer\bin\Debug\User Interface Layer.exe.config
+c:\users\user\documents\visual studio 2012\Projects\User Interface Layer\User Interface Layer\bin\Debug\User Interface Layer.exe
+c:\users\user\documents\visual studio 2012\Projects\User Interface Layer\User Interface Layer\bin\Debug\User Interface Layer.pdb
+c:\users\user\documents\visual studio 2012\Projects\User Interface Layer\User Interface Layer\bin\Debug\Hospital Information Layer.dll
+c:\users\user\documents\visual studio 2012\Projects\User Interface Layer\User Interface Layer\bin\Debug\Hospital Operation Layer.dll
+c:\users\user\documents\visual studio 2012\Projects\User Interface Layer\User Interface Layer\bin\Debug\Data Access Layer.dll
+c:\users\user\documents\visual studio 2012\Projects\User Interface Layer\User Interface Layer\bin\Debug\Hospital Information Layer.pdb
+c:\users\user\documents\visual studio 2012\Projects\User Interface Layer\User Interface Layer\bin\Debug\Hospital Operation Layer.pdb
+c:\users\user\documents\visual studio 2012\Projects\User Interface Layer\User Interface Layer\bin\Debug\Data Access Layer.pdb
+c:\users\user\documents\visual studio 2012\Projects\User Interface Layer\User Interface Layer\obj\Debug\User Interface Layer.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\User Interface Layer\User Interface Layer\obj\Debug\User_Interface_Layer.LogIn.resources
+c:\users\user\documents\visual studio 2012\Projects\User Interface Layer\User Interface Layer\obj\Debug\User_Interface_Layer.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\User Interface Layer\User Interface Layer\obj\Debug\User_Interface_Layer.Registration.resources
+c:\users\user\documents\visual studio 2012\Projects\User Interface Layer\User Interface Layer\obj\Debug\User Interface Layer.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\User Interface Layer\User Interface Layer\obj\Debug\User Interface Layer.exe
+c:\users\user\documents\visual studio 2012\Projects\User Interface Layer\User Interface Layer\obj\Debug\User Interface Layer.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\User Interface Layer\User Interface Layer\obj\Debug\User_Interface_Layer.AdminHome.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Hospital Management System\User Interface Layer\bin\Debug\User Interface Layer.exe.config
+C:\Users\User\Documents\Visual Studio 2012\Projects\Hospital Management System\User Interface Layer\obj\Debug\User Interface Layer.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\Hospital Management System\User Interface Layer\obj\Debug\User Interface Layer.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\Hospital Management System\User Interface Layer\bin\Debug\User Interface Layer.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\Hospital Management System\User Interface Layer\bin\Debug\User Interface Layer.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\Hospital Management System\User Interface Layer\bin\Debug\Hospital Information Layer.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Hospital Management System\User Interface Layer\bin\Debug\Hospital Operation Layer.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Hospital Management System\User Interface Layer\bin\Debug\Data Access Layer.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Hospital Management System\User Interface Layer\bin\Debug\Hospital Information Layer.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\Hospital Management System\User Interface Layer\bin\Debug\Hospital Operation Layer.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\Hospital Management System\User Interface Layer\bin\Debug\Data Access Layer.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\Hospital Management System\User Interface Layer\obj\Debug\User Interface Layer.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\Hospital Management System\User Interface Layer\obj\Debug\User_Interface_Layer.AdminHome.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Hospital Management System\User Interface Layer\obj\Debug\User_Interface_Layer.DoctorHome.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Hospital Management System\User Interface Layer\obj\Debug\User_Interface_Layer.LogIn.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Hospital Management System\User Interface Layer\obj\Debug\User_Interface_Layer.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Hospital Management System\User Interface Layer\obj\Debug\User_Interface_Layer.Registration.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Hospital Management System\User Interface Layer\obj\Debug\User_Interface_Layer.StuffHome.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Hospital Management System\User Interface Layer\obj\Debug\User Interface Layer.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\Hospital Management System\User Interface Layer\obj\Debug\User_Interface_Layer.AdminEmployee.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Hospital Management System\User Interface Layer\obj\Debug\User_Interface_Layer.ViewEmployee.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Hospital Management System\User Interface Layer\obj\Debug\User_Interface_Layer.UpdateEmployee.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Hospital Management System\User Interface Layer\obj\Debug\User_Interface_Layer.AdminPatient.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Hospital Management System\User Interface Layer\obj\Debug\User_Interface_Layer.PatientRegistration.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Hospital Management System\User Interface Layer\obj\Debug\User_Interface_Layer.UpdatePatient.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Hospital Management System\User Interface Layer\obj\Debug\User_Interface_Layer.ViewPatient.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Hospital Management System\User Interface Layer\obj\Debug\User_Interface_Layer.ViewDiagnosis.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Hospital Management System\User Interface Layer\obj\Debug\User_Interface_Layer.Billing.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Hospital Management System\User Interface Layer\obj\Debug\User_Interface_Layer.DiagnosePatient.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Hospital Management System\User Interface Layer\obj\Debug\User_Interface_Layer.DocCPList.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Hospital Management System\User Interface Layer\obj\Debug\User_Interface_Layer.DocDiagnosList.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Hospital Management System\User Interface Layer\obj\Debug\User_Interface_Layer.StuffBilling.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Hospital Management System\User Interface Layer\obj\Debug\User_Interface_Layer.StuffViewDiagnosis.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Hospital Management System\User Interface Layer\obj\Debug\User_Interface_Layer.StuffUpdatePatient.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Hospital Management System\User Interface Layer\obj\Debug\User_Interface_Layer.StuffViewPatient.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Hospital Management System\User Interface Layer\obj\Debug\User_Interface_Layer.StuffPatientRegistration.resources
+E:\HMS\Hospital Management System\User Interface Layer\bin\Debug\User Interface Layer.exe.config
+E:\HMS\Hospital Management System\User Interface Layer\bin\Debug\User Interface Layer.exe
+E:\HMS\Hospital Management System\User Interface Layer\bin\Debug\User Interface Layer.pdb
+E:\HMS\Hospital Management System\User Interface Layer\bin\Debug\Hospital Information Layer.dll
+E:\HMS\Hospital Management System\User Interface Layer\bin\Debug\Hospital Operation Layer.dll
+E:\HMS\Hospital Management System\User Interface Layer\bin\Debug\Data Access Layer.dll
+E:\HMS\Hospital Management System\User Interface Layer\bin\Debug\Hospital Information Layer.pdb
+E:\HMS\Hospital Management System\User Interface Layer\bin\Debug\Hospital Operation Layer.pdb
+E:\HMS\Hospital Management System\User Interface Layer\bin\Debug\Data Access Layer.pdb
+E:\HMS\Hospital Management System\User Interface Layer\obj\Debug\User Interface Layer.csprojAssemblyReference.cache
+E:\HMS\Hospital Management System\User Interface Layer\obj\Debug\User_Interface_Layer.AdminEmployee.resources
+E:\HMS\Hospital Management System\User Interface Layer\obj\Debug\User_Interface_Layer.AdminHome.resources
+E:\HMS\Hospital Management System\User Interface Layer\obj\Debug\User_Interface_Layer.AdminPatient.resources
+E:\HMS\Hospital Management System\User Interface Layer\obj\Debug\User_Interface_Layer.Billing.resources
+E:\HMS\Hospital Management System\User Interface Layer\obj\Debug\User_Interface_Layer.StuffBilling.resources
+E:\HMS\Hospital Management System\User Interface Layer\obj\Debug\User_Interface_Layer.StuffViewDiagnosis.resources
+E:\HMS\Hospital Management System\User Interface Layer\obj\Debug\User_Interface_Layer.StuffUpdatePatient.resources
+E:\HMS\Hospital Management System\User Interface Layer\obj\Debug\User_Interface_Layer.StuffViewPatient.resources
+E:\HMS\Hospital Management System\User Interface Layer\obj\Debug\User_Interface_Layer.StuffPatientRegistration.resources
+E:\HMS\Hospital Management System\User Interface Layer\obj\Debug\User_Interface_Layer.DiagnosePatient.resources
+E:\HMS\Hospital Management System\User Interface Layer\obj\Debug\User_Interface_Layer.DocCPList.resources
+E:\HMS\Hospital Management System\User Interface Layer\obj\Debug\User_Interface_Layer.DocDiagnosList.resources
+E:\HMS\Hospital Management System\User Interface Layer\obj\Debug\User_Interface_Layer.UpdatePatient.resources
+E:\HMS\Hospital Management System\User Interface Layer\obj\Debug\User_Interface_Layer.ViewDiagnosis.resources
+E:\HMS\Hospital Management System\User Interface Layer\obj\Debug\User_Interface_Layer.ViewPatient.resources
+E:\HMS\Hospital Management System\User Interface Layer\obj\Debug\User_Interface_Layer.PatientRegistration.resources
+E:\HMS\Hospital Management System\User Interface Layer\obj\Debug\User_Interface_Layer.UpdateEmployee.resources
+E:\HMS\Hospital Management System\User Interface Layer\obj\Debug\User_Interface_Layer.DoctorHome.resources
+E:\HMS\Hospital Management System\User Interface Layer\obj\Debug\User_Interface_Layer.LogIn.resources
+E:\HMS\Hospital Management System\User Interface Layer\obj\Debug\User_Interface_Layer.Properties.Resources.resources
+E:\HMS\Hospital Management System\User Interface Layer\obj\Debug\User_Interface_Layer.Registration.resources
+E:\HMS\Hospital Management System\User Interface Layer\obj\Debug\User_Interface_Layer.StuffHome.resources
+E:\HMS\Hospital Management System\User Interface Layer\obj\Debug\User_Interface_Layer.ViewEmployee.resources
+E:\HMS\Hospital Management System\User Interface Layer\obj\Debug\User Interface Layer.csproj.GenerateResource.cache
+E:\HMS\Hospital Management System\User Interface Layer\obj\Debug\User Interface Layer.csproj.CoreCompileInputs.cache
+E:\HMS\Hospital Management System\User Interface Layer\obj\Debug\User Interface Layer.csproj.CopyComplete
+E:\HMS\Hospital Management System\User Interface Layer\obj\Debug\User Interface Layer.exe
+E:\HMS\Hospital Management System\User Interface Layer\obj\Debug\User Interface Layer.pdb
